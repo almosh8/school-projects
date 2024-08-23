@@ -1,0 +1,19 @@
+[DEBUG] [2024-07-08 20:56:08] File 'a' printed to console
+[DEBUG] [2024-07-08 20:56:08] File 'a' open
+[DEBUG] [2024-07-08 20:56:17] File 'a' printed to console
+[DEBUG] [2024-07-08 20:56:17] File 'a' open
+[DEBUG] [2024-07-08 20:56:36] String wrote in the 'a' file
+[DEBUG] [2024-07-08 20:56:36] File 'a' printed to console
+[DEBUG] [2024-07-08 20:56:43] File 'git.sh' printed to console
+[DEBUG] [2024-07-08 20:56:43] File 'git.sh' open
+[DEBUG] [2024-07-08 20:56:50] File 'a' printed to console
+[DEBUG] [2024-07-08 20:56:50] File 'a' open
+[DEBUG] [2024-07-08 20:56:59] String wrote in the 'a' file
+[DEBUG] [2024-07-08 20:56:59] File 'a' printed to console
+[DEBUG] [2024-07-08 20:57:10] File 'ai_modules/m2.c' encrypted with shift 0
+[DEBUG] [2024-07-08 20:57:10] File 'ai_modules/m1.c' encrypted with shift 0
+[DEBUG] [2024-07-09 17:20:15] File 'dft' open
+[DEBUG] [2024-07-09 17:20:18] String wrote in the 'dft' file
+[DEBUG] [2024-07-09 17:20:18] File 'dft' printed to console
+[DEBUG] [2024-07-09 17:21:54] File '' open
+[DEBUG] [2024-07-09 17:22:01] File '' open

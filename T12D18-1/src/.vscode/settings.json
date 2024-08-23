@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "print_module.h": "c",
+        "stdlib.h": "c",
+        "type_traits": "c"
+    }
+}
